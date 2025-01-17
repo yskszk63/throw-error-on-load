@@ -1,1 +1,1 @@
-import "@yskszk63/throw-error-on-load/throw.js";
+import "throw-error-on-load/throw.js";

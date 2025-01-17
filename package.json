@@ -1,5 +1,5 @@
 {
-  "name": "@yskszk63/throw-error-on-load",
+  "name": "throw-error-on-load",
   "version": "1.0.0",
   "description": "Throw error on load this module.",
   "license": "MIT",

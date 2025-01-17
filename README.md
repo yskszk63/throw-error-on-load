@@ -1,7 +1,7 @@
-# @yskszk63/throw-error-on-load
+# throw-error-on-load
 
 ```bash
-$ node -e 'import("@yskszk63/throw-error-on-load/throw.js")'
+$ node -e 'import("throw-error-on-load/throw.js")'
 file:///.../throw-error-on-load/throw.js:1
 throw new Error("🙈");
       ^
