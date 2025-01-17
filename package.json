@@ -1,0 +1,17 @@
+{
+  "name": "@yskszk63/throw-error-on-load",
+  "version": "1.0.0",
+  "description": "Throw error on load this module.",
+  "license": "MIT",
+  "author": "yskszk63<yskszk63@gmail.com>",
+  "type": "module",
+  "exports": {
+    "./throw.js": {
+      "default": "./throw.js"
+    }
+  },
+  "repository": {
+    "url": "https://github.com/yskszk63/throw-error-on-load.git",
+    "type": "git"
+  }
+}
